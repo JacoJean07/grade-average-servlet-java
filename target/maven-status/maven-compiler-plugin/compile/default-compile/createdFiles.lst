@@ -1,0 +1,4 @@
+com\mycompany\promedio\JakartaRestConfiguration.class
+com\mycompany\promedio\resources\JakartaEE10Resource.class
+model\Estudiante.class
+controller\Promedio.class
